@@ -18,7 +18,7 @@
 					color: black;
 					text-align: center;
 				}
-				.title {
+				h1 {
 					font-family: sans-serif
 					text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black; 
 					font-size: 300%
@@ -32,10 +32,10 @@
 				
 			</style>
 			<div class="container">
-<span class="title">					A B<span class="hollow">asic</span>
+<h1>					A B<span class="hollow">asic</span>
 					Ser<span class="hollow">ializer and</span>
 					Des<span class="hollow">ializer</span>
-				</span>			</div>
+				</h1>			</div>
 		</div>
 	</foreignObject>
 </svg>
