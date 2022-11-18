@@ -32,10 +32,14 @@
 <h1>					A B<span class="hollow">asic</span>
 					Ser<span class="hollow">ializer and</span>
 					Des<span class="hollow">ializer</span>
-				</h1>			</div>
-			<li>
-				<i>Installation</i>
-			</li>
+				</h1>			
+				<li>
+					<i>
+						Installation
+					</i>
+				</li>
+			</div>
+			
 		</div>
 	</foreignObject>
 </svg>
